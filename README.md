@@ -203,7 +203,6 @@ backend/.env
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
 OPENROUTER_API_KEY=your_openrouter_api_key_here
-DJANGO_SECRET_KEY=your_django_secret_key_here
 ```
 
 ---
